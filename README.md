@@ -14,6 +14,18 @@
   <p>웹개발자 양성과정 수료 (프론트엔드)</p>
   <p>데이터분석 준전문가(ADsP)</p>
   <br>
+  <h2>🚶🏻‍♂️Projects</h2>
+  <h3>[ 데이터분석 ]</h3>
+  <p>게이미피케이션을 활용한 k-pop 주가예측 서비스</p>
+  <p>서울시 RE100 도입을 위한 전력사용량 예측 및 에너지지도 시각화 서비스</p>
+  <p>건강보험공단 데이터를 활용한 흡연여부 예측</p>
+  <p>Ebay 경매입찰여부 분류를 위한 로지스틱회귀모델</p>
+  <br>
+  <h3>[ 웹,앱 개발 ]</h3>
+  <p>대학교 술집 대관 앱서비스 '끼리끼리'</p>
+  <p>강아지 건강관리 웹사이트 'pet-hub'</p>
+  <p>어린이 보호구역 실시간 관제 플랫폼 'safe-CCTV 웹사이트'</p>
+  <br>
   <h2>🦿Stacks</h2>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
   <br>
