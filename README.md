@@ -26,6 +26,9 @@
   <p>강아지 건강관리 웹사이트 'pet-hub'</p>
   <p>어린이 보호구역 실시간 관제 플랫폼 'safe-CCTV 웹사이트'</p>
   <br>
+  <h3>[ 웹 기획 ]</h3>
+  <p>빅데이터 학회 웹페이지 기획 및 운영중</p>
+  <br>
   <h2>🦿Stacks</h2>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
   <br>
