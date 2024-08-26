@@ -13,9 +13,14 @@
   <p>빅데이터학회 b.a.f 운영진</p>
   <p>빅데이터학회 b.a.f 활동</p>
   <p>웹개발자 양성과정 수료 '2023-02 ~ 2024-02' (프론트엔드) </p>
+  <P>네이버클라우드플랫폼 교육과정 수료</P>
+  <br>
+
+  <h2>🚶🏻‍♂️Certification</h2>
   <p>데이터분석 준전문가(ADsP)</p>
   <p>OPIc(오픽) IH(Intermediate High)</p>
-  <br>
+  <p>SQLD(SQL Developer)</p>
+  
   <h2>🚶🏻‍♂️Projects</h2>
   <h3>[ 데이터분석 ]</h3>
   <p>2차전지 핵심광물 가격 예측 및 LLM을 이용한 리스크 탐지 레포트 서비스</p>
