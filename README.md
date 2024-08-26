@@ -20,6 +20,7 @@
   <p>데이터분석 준전문가(ADsP)</p>
   <p>OPIc(오픽) IH(Intermediate High)</p>
   <p>SQLD(SQL Developer)</p>
+  <br>
   
   <h2>🚶🏻‍♂️Projects</h2>
   <h3>[ 데이터분석 ]</h3>
